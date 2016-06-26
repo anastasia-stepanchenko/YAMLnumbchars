@@ -1,0 +1,13 @@
+Name of QuantLet: YAMLnumbchars
+
+Description: Plots the number of char symbols of all different fields in YAML text corpus containing Quantnet metainfo.txt files.
+
+Keywords: plot, graphical representation, data visualization, text mining, statistics
+
+See also: YAMLcleanmerge
+
+Author: Anastasia Stepanchenko
+
+Submitted: 
+
+Datafiles: yamlQN.RData
