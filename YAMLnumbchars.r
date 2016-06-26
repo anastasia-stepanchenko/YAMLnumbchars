@@ -10,8 +10,6 @@ install.packages(x)
 })
 lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 
-#setwd("D:/thesis/TM_Clustering/yaml_statistics/YAMLnumbchars")
-
 # load data
 options(stringsAsFactors=FALSE)
 obj.names  = load("yamlQN.RData", .GlobalEnv)
